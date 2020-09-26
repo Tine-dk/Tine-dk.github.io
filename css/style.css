@@ -6,6 +6,13 @@ Author: Chris Castiglione | www.twitter.com/castig | www.castig.org
 Developed @ One Month in NYC 
 
 */
+.fstPage {
+    background-image:url("https://Tine-dk.github.io/images/IMG_0046.jpg");
+    /*background-color: lightgray;*/
+    height: 700px;
+    width:100%;
+    background-size:cover;
+}
 
 body {
 	background: url('../images/IMG_0046.jpg');
